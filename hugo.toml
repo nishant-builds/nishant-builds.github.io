@@ -26,10 +26,6 @@ buildDrafts = false
     enabled = true
     title = "Nishant Neeraj"
     subtitle = "Senior BA in Risk Strategy. Writing daily about product, fintech, and systems thinking."
-    imageUrl = "images/avatar.jpg"
-    imageWidth = 120
-    imageHeight = 120
-
     [[params.profileMode.buttons]]
       name = "Log"
       url = "/log"
