@@ -1,0 +1,103 @@
+baseURL = "https://nishant-builds.github.io/"
+title = "Nishant Neeraj"
+paginate = 10
+theme = "PaperMod"
+languageCode = "en-us"
+enableRobotsTXT = true
+buildDrafts = false
+
+[params]
+  env = "production"
+  title = "Nishant Neeraj"
+  description = "Product thinker. Writing about what I learn, build, and observe."
+  author = "Nishant Neeraj"
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowToc = true
+  TocOpen = false
+
+  [params.profileMode]
+    enabled = true
+    title = "Nishant Neeraj"
+    subtitle = "Senior BA in Risk Strategy. Writing daily about product, fintech, and systems thinking."
+    imageUrl = "images/avatar.jpg"
+    imageWidth = 120
+    imageHeight = 120
+
+    [[params.profileMode.buttons]]
+      name = "Log"
+      url = "/log"
+
+    [[params.profileMode.buttons]]
+      name = "Learnings"
+      url = "/learnings"
+
+    [[params.profileMode.buttons]]
+      name = "Deep Dives"
+      url = "/deep-dives"
+
+    [[params.profileMode.buttons]]
+      name = "Projects"
+      url = "/projects"
+
+    [[params.profileMode.buttons]]
+      name = "About"
+      url = "/about"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/nishantneeraj"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/nishant-builds"
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+[menu]
+  [[menu.main]]
+    identifier = "log"
+    name = "Log"
+    url = "/log/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "learnings"
+    name = "Learnings"
+    url = "/learnings/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "deep-dives"
+    name = "Deep Dives"
+    url = "/deep-dives/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 50
+
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 60
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
