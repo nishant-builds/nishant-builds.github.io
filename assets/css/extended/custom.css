@@ -41,3 +41,13 @@
 a {
     text-decoration: none;
 }
+
+.profile-mode .buttons {
+    justify-content: center;
+    gap: 8px;
+}
+
+.profile-mode .button {
+    padding: 6px 18px;
+    font-size: 0.85rem;
+}
