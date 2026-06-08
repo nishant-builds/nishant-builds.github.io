@@ -1,0 +1,43 @@
+:root {
+    --theme: #1a1a2e;
+    --entry: #ffffff;
+    --primary: rgba(26, 26, 46, 0.88);
+    --secondary: rgba(26, 26, 46, 0.56);
+    --tertiary: rgba(26, 26, 46, 0.16);
+    --content: rgba(26, 26, 46, 0.88);
+    --hljs-bg: #1a1a2e;
+    --code-bg: #f4f4f8;
+    --border: rgba(26, 26, 46, 0.12);
+}
+
+.dark {
+    --theme: #0f0f1a;
+    --entry: #1a1a2e;
+    --primary: rgba(255, 255, 255, 0.92);
+    --secondary: rgba(255, 255, 255, 0.60);
+    --tertiary: rgba(255, 255, 255, 0.16);
+    --content: rgba(255, 255, 255, 0.84);
+    --hljs-bg: #0f0f1a;
+    --code-bg: #1a1a2e;
+    --border: rgba(255, 255, 255, 0.12);
+}
+
+.profile-mode .profile_inner h1 {
+    font-size: 1.8rem;
+    letter-spacing: -0.02em;
+}
+
+.profile-mode .profile_inner p {
+    font-size: 1rem;
+    line-height: 1.7;
+    max-width: 460px;
+}
+
+.entry-content {
+    line-height: 1.85;
+    font-size: 1.05rem;
+}
+
+a {
+    text-decoration: none;
+}
