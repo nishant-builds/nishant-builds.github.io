@@ -1,0 +1,15 @@
+## Hugo build output — GitHub Actions builds this, don't commit it
+public/
+
+## Hugo lock file
+.hugo_build.lock
+
+## Claude Code config — local only
+.claude/
+
+## Design exploration leftovers
+mockup.html
+
+## OS files
+.DS_Store
+Thumbs.db

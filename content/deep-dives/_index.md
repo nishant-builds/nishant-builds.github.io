@@ -1,4 +1,4 @@
 ---
-title: "Deep-Dives"
+title: "Deep Dives"
 description: "Product Sense and Teardowns"
 ---

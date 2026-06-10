@@ -11,8 +11,8 @@ buildDrafts = false
   title = "Nishant Neeraj"
   description = "Product thinker. Writing about what I learn, build, and observe."
   author = "Nishant Neeraj"
-  defaultTheme = "auto"
-  disableThemeToggle = false
+  defaultTheme = "light"
+  disableThemeToggle = true
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
@@ -63,40 +63,34 @@ buildDrafts = false
 
 [menu]
   [[menu.main]]
-    identifier = "log"
-    name = "Log"
-    url = "/log/"
+    identifier = "about"
+    name = "About"
+    url = "/about/"
     weight = 10
-
-  [[menu.main]]
-    identifier = "learnings"
-    name = "Learnings"
-    url = "/learnings/"
-    weight = 20
 
   [[menu.main]]
     identifier = "deep-dives"
     name = "Deep Dives"
     url = "/deep-dives/"
-    weight = 30
+    weight = 20
 
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
     url = "/projects/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "learnings"
+    name = "Learnings"
+    url = "/learnings/"
     weight = 40
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "log"
+    name = "Log"
+    url = "/log/"
     weight = 50
 
-  [[menu.main]]
-    identifier = "search"
-    name = "Search"
-    url = "/search/"
-    weight = 60
-
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS"]

@@ -1,0 +1,50 @@
+{{- define "main" }}
+<div class="ln-home">
+
+  <div class="ln-intro">
+    <img src="/images/avatar.svg" alt="Nishant Neeraj" class="ln-avatar">
+    <h1 class="ln-title">{{ .Site.Title }}</h1>
+    <p class="ln-subtitle">{{ .Site.Params.description }}</p>
+    <nav class="ln-filters">
+      <a href="/about/">About</a>
+      <a href="/deep-dives/">Deep Dives</a>
+      <a href="/projects/">Projects</a>
+      <a href="/learnings/">Learnings</a>
+      <a href="/log/">Log</a>
+    </nav>
+  </div>
+
+  <div class="ln-feed">
+    {{- range .Site.RegularPages }}
+    <article class="ln-card{{- if .Params.cover }} ln-card--has-image{{- end }}">
+
+      {{- if .Params.cover }}
+      <a href="{{ .RelPermalink }}" class="ln-card-image-wrap" tabindex="-1" aria-hidden="true">
+        <img src="{{ .Params.cover.image }}" alt="{{ .Title }}" class="ln-card-img" loading="lazy">
+      </a>
+      {{- end }}
+
+      <div class="ln-card-body">
+        <a href="/{{ .Section }}/" class="ln-section-label">{{ replace .Section "-" " " | title }}</a>
+        <a href="{{ .RelPermalink }}" class="ln-card-link">
+          <h2 class="ln-card-title">{{ .Title }}</h2>
+          {{- with .Summary }}
+          <p class="ln-card-summary">{{ . | plainify | truncate 160 }}</p>
+          {{- end }}
+        </a>
+        <div class="ln-card-meta">
+          <span class="ln-card-date">{{ .Date.Format "Jan 2, 2006" }}</span>
+          {{- with .Params.tags }}
+          <span class="ln-card-tags">
+            {{- range . }}<span class="ln-tag-pill">{{ . }}</span>{{ end }}
+          </span>
+          {{- end }}
+        </div>
+      </div>
+
+    </article>
+    {{- end }}
+  </div>
+
+</div>
+{{- end }}
