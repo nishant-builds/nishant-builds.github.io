@@ -10,6 +10,10 @@ public/
 ## Design exploration leftovers
 mockup.html
 
+## Generated documentation (keep locally, not in repo)
+Portfolio_Site_Guide.docx
+generate_docs.py
+
 ## OS files
 .DS_Store
 Thumbs.db
