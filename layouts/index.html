@@ -15,7 +15,7 @@
   </div>
 
   <div class="ln-feed">
-    {{- range .Site.RegularPages }}
+    {{- range first 10 .Site.RegularPages }}
     <article class="ln-card{{- if .Params.cover }} ln-card--has-image{{- end }}">
 
       {{- if .Params.cover }}
@@ -45,6 +45,12 @@
     </article>
     {{- end }}
   </div>
+
+  {{- if gt (len .Site.RegularPages) 10 }}
+  <div class="ln-see-all">
+    <a href="/posts/">See all posts →</a>
+  </div>
+  {{- end }}
 
 </div>
 {{- end }}

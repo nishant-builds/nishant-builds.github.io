@@ -9,7 +9,7 @@ buildDrafts = false
 [params]
   env = "production"
   title = "Nishant Neeraj"
-  description = "Product thinker. Writing about what I learn, build, and observe."
+  description = "Writing about what I learn, build, and observe."
   author = "Nishant Neeraj"
   defaultTheme = "light"
   disableThemeToggle = true
