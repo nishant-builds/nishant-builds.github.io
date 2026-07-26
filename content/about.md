@@ -10,9 +10,7 @@ I'm a Senior Business Analyst in Risk Strategy at Slice SFB, with roots in credi
 
 Before joining the private sector, I spent three years preparing for civil services exams. That chapter shaped how I think: always asking *who does this affect, at what scale, and why does the system produce this outcome?*
 
-I entered the private sector to understand business from the inside — and three years into that, I'm convinced the most interesting problems sit at the intersection of credit, product, and distribution.
-
-### What this site is
+## What this site is
 
 This is my public learning log. I write here because explaining something clearly is the best test of whether you actually understand it.
 
@@ -21,13 +19,13 @@ This is my public learning log. I write here because explaining something clearl
 - **Deep Dives** — product teardowns and analysis
 - **Projects** — things I've built, led, or shipped
 
-### Background
+## Background
 
 - B.Tech, IIT Bombay (2018)
 - 3 years civil services preparation
 - ~3 years credit risk strategy, EXL Services
-- Senior BA, Risk Strategy, Slice SFB (since 2024)
+- Senior BA, Risk Strategy, Slice SFB (since Aug'2024)
 
 ---
 
-*Find me on [LinkedIn](https://linkedin.com/in/nishantneeraj).*
+*Find me on [LinkedIn](https://linkedin.com/in/nishantneeraj29).*
