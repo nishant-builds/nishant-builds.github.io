@@ -14,10 +14,10 @@ Before joining the private sector, I spent three years preparing for civil servi
 
 This is my public learning log. I write here because explaining something clearly is the best test of whether you actually understand it.
 
-- **Log** — daily thinking out loud
-- **Learnings** — structured takeaways from books, articles, and frameworks
-- **Deep Dives** — product teardowns and analysis
-- **Projects** — things I've built, led, or shipped
+- **Notes** — Making notes, thinking out loud — short entries, honest observations
+- **Learnings** — Distilled take-aways from books, articles, frameworks etc.
+- **Product Sense** — Product Sense and Teardowns
+- **Projects** — Look, what I built :)
 
 ## Background
 

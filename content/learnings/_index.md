@@ -1,4 +1,4 @@
 ---
 title: "Learnings"
-description: "What I've learnt."
+description: "Distilled take-aways from books, articles, frameworks etc."
 ---

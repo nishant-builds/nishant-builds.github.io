@@ -1,4 +1,4 @@
 ---
-title: "Log"
-description: "Daily thinking out loud — short entries, honest observations."
+title: "Notes"
+description: "Making notes, thinking out loud — short entries, honest observations"
 ---
