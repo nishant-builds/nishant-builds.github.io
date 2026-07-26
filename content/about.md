@@ -21,7 +21,7 @@ This is my public learning platform. I write here because explaining something c
 
 ## Background
 
-- Lead BA, Risk Strategy, Slice (Aug'2024-Present) 
+- Lead BA, Risk Strategy, Slice (Aug'24 - Present) 
 - Risk Strategy, EXL Services (Jun'21 - Aug'24)
 - ~3 years civil services preparation (not cleared :/)
 - B.Tech, IIT Bombay (2014-18)
