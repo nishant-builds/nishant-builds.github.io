@@ -4,7 +4,7 @@ url: "/about"
 summary: "about"
 ---
 
-## Hey, I'm Nishant 👋
+## Hey, I'm Nishant !
 
 I'm a Senior Business Analyst in Risk Strategy at Slice SFB, with roots in credit risk analytics and a long-standing interest in how systems — financial, organizational, product — actually work.
 
