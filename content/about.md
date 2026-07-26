@@ -15,7 +15,7 @@ Before joining the private sector, I spent three years preparing for civil servi
 
 This is my public learning platform. I write here because explaining something clearly is the best test of whether you actually understand it.
 
-- **Product Sense** — Product Sense and Teardowns
+- **Product Sense & Business** — Product Sense, Teardowns and understanding Businesses
 - **Projects** — Look, what I built :)
 - **Learnings** — Distilled take-aways from books, articles, frameworks etc.
 - **Notes** — Making notes, thinking out loud — short entries, honest observations
