@@ -2,6 +2,7 @@
 title: "About"
 url: "/about"
 summary: "about"
+showToc: false
 ---
 
 ## Hey, I'm Nishant!
