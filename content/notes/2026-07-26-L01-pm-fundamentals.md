@@ -1,5 +1,5 @@
 ---
-title: "HelloPM - #1 - Product Management Lifecycle"
+title: "#1 - Product Management Lifecycle (HelloPM)"
 date: 2026-07-26
 tags: ["product-management", "helloPM", "product-management-lifecycle"]
 showToc: true

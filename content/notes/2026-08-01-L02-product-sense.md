@@ -1,5 +1,5 @@
 ---
-title: "HelloPM - #2 - Product Sense"
+title: "#2 - Product Sense (HelloPM)"
 date: 2026-08-01
 tags: ["product-management", "helloPM", "product-sense"]
 showToc: true
