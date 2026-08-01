@@ -1,7 +1,7 @@
 ---
-title: "HelloPM - L1 - PM Fundamentals"
+title: "HelloPM - #1 - Product Management Lifecycle"
 date: 2026-07-26
-tags: ["product-management", "fundamentals", "helloPM"]
+tags: ["product-management", "helloPM", "product-management-lifecycle"]
 showToc: true
 cover:
   image: "/images/notes_001_gemini_product_lifecycle_management.png"
