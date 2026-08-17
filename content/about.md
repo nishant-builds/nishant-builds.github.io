@@ -22,11 +22,11 @@ This is my public learning platform. I write here because explaining something c
 
 ## Background
 
-- Lead BA, Risk Strategy, Slice (Aug'24 - Present) 
-- Risk Strategy, EXL Services (Jun'21 - Aug'24)
+- Lead BA, Risk Strategy, A leading Indian Fintech (now a Small Finance Bank) (Aug'24 - Present) 
+- Risk Strategy, Top Consulting Company (Jun'21 - Aug'24)
 - ~3 years civil services preparation (not cleared :/)
 - B.Tech, IIT Bombay (2014-18)
 
 ---
 
-*Find me on [LinkedIn](https://linkedin.com/in/nishantneeraj29).*
+*Find me on [LinkedIn](https://linkedin.com/in/will_update_link).*
