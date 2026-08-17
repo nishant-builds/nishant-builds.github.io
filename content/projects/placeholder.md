@@ -1,5 +1,5 @@
 ---
-title: "[placeholder]"
+title: "placeholder"
 date: 2026-05-15
 tags: ["placeholder"]
 cover:
