@@ -4,7 +4,7 @@ date: 2026-08-17
 tags: ["product-management", "helloPM", "product-discovery"]
 showToc: true
 cover:
-  image: "/images/notes_002_gemini_product_sense.png" 
+  image: "/images/notes_003_gemini_product_discovery.png" 
 ---
 
 > Notes are based on live lectures via HelloPM (https://hellopm.co/). All credits to Ankit and team. This is just a dump of what I noted for revision
